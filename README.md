@@ -23,7 +23,7 @@ foreach($names as $name) {
 ?>
 
 ```
-![Some Examples]()
+![Some Examples](http://i.hizliresim.com/40WEQY.png)
 ## Dependencies
 
 - Multibyte String library (http://php.net/manual/en/book.mbstring.php)
